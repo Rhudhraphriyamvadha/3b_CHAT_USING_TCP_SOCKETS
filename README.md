@@ -1,4 +1,5 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+# NAME: Rhudhra phriyamvadha K S
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -8,7 +9,12 @@ To write a python program for creating Chat using TCP Sockets Links.
  server
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
+
+![3b program](https://github.com/user-attachments/assets/269d53f8-92cb-418f-bf9f-59c4fe0db3fb)
+
 ## OUPUT
+
+![3b terminal](https://github.com/user-attachments/assets/9c6c16cc-8029-47c6-9589-1cd80851ffcd)
+
 ## RESULT
-Thus, the python program for creating Chat using TCP Sockets Links was successfully 
-created and executed.
+Thus, the python program for creating Chat using TCP Sockets Links was successfully created and executed.
