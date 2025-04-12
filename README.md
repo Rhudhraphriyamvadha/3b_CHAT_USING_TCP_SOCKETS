@@ -1,5 +1,5 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-# NAME: Rhudhra phriyamvadha K S
+## NAME: Rhudhra phriyamvadha K S
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
